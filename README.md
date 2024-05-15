@@ -1,7 +1,8 @@
-### Animação-CSS "Terra" https://codepen.io/Felipeacandido/pen/jOoPKvN
+### Animação-CSS "Terra"
 
 ![Vídeo sem título ‐ Feito com o Clipchamp](https://github.com/Felipeacandido/Anima-o-CSS/assets/161148912/5f55d9d7-0279-4a33-a7f9-a26416665e7f)
 
+https://codepen.io/Felipeacandido/pen/jOoPKvN
 
 Este código simula a Lua orbitando ao redor da Terra em um ciclo contínuo de 5 segundos, mudando de posição em relação ao observador (passando por trás da Terra a cada metade do ciclo). A animação utiliza uma combinação inteligente de CSS para o movimento e a profundidade visual. É uma maneira simples e eficaz de criar uma representação visual do movimento orbital sem a necessidade de scripts complexos.
 
